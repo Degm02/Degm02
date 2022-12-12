@@ -28,14 +28,22 @@ Hello friends ✋ , welcome to my GitHub. I am Danny Garcia, i'm 21 years old an
       <br>C#
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>Python
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+      <br>Java
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
       <br>Javascript
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=PHP-Dark" width="48" height="48" alt="PHP-Dark" />
+      <br>PHP
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Python
     </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
@@ -49,19 +57,24 @@ Hello friends ✋ , welcome to my GitHub. I am Danny Garcia, i'm 21 years old an
         <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
       <br>Bootstrap
     </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=MongoDB" width="48" height="48" alt="MongoDB" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="mysql" />
+      <br>MySQL
+    </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
-  </tr>
- <tr>
-            <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="mysql" />
-      <br>MySQL
-    </td>
+ 
+ 
+            
  </tr>
 </table>
-
- style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /></div>
 
 ![original](https://user-images.githubusercontent.com/120195533/206946554-70c03106-39f6-4037-8393-f68e07e9ba70.gif)
