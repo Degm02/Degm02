@@ -128,5 +128,4 @@ Hello friends ✋ , welcome to my GitHub. I am Danny Garcia, i'm 21 years old an
  </tr>
 </table>
 
-
-<img data-target="animated-image.replacedImage" alt="original.gif" class="AnimatedImagePlayer-animatedImage" src="https://data.whicdn.com/images/364273460/original.gif" style="display: block; opacity: 1;">
+![original](https://user-images.githubusercontent.com/120195533/206946554-70c03106-39f6-4037-8393-f68e07e9ba70.gif)
